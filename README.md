@@ -3,7 +3,7 @@
 
 Object detection via openCV for input mirroring and other stuff (theortically).
 
-Example of OpenCV object detection in action:
+Example of my OpenCV object detection in action:
 
 
 
