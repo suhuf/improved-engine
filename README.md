@@ -12,4 +12,4 @@ https://github.com/suhuf/improved-engine/assets/105312929/d21ce58e-675f-4cc0-8b1
 
 
 
-As you can see it is very slow at the moment, plan on changing this after getting the imput mirroring format down and the ability to detect more objects
+As you can see it is very slow at the moment, plan on changing this after getting the input mirroring format down and the ability to detect more objects (with labels)
