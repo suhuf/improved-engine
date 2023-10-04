@@ -22,3 +22,6 @@ Implement multi threading for multiple objects, perfomance is even worse when de
 around 30% of the slow down is due to template matching, find a way to separate that.
 
 Look for a quicker way to render/burn through the matching process
+
+Use HSV to make white colors irrelevant for player object matching (In order to ignore player number). 
+
