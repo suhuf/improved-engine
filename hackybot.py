@@ -162,28 +162,4 @@ print(inputbox[0])
 
 print(chatbox.text)
 
-def elephant(x):
-    chatbox.text
 
-    # split the last line and divide into two variables player name and statement
-    # use that for coamadns checkin
-
-    pass
-
-
-#driver.switch_to.frame(driver.find_element(By.CSS_SELECTOR, "iframe.textarea[src='PwfmUfRI/__cache_static__/g/game.html']"))
-
-#print(roomlist)
-
-
-#for link in links:
-    #print(link.get_attribute("innerHTML"))  # This one only gets links.
-
-
-# element = driver.find_elements("css", 
-   #                            '//input[@maxlength="25"]')
-
-#print(len(element))
-
-#name_input = driver.find_element_by_xpath('//input[@type="text"]')
-#print(name_input.get_attribute('value'))
